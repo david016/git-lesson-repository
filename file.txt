@@ -1,0 +1,4 @@
+Some string
+another string
+third line of string
+bla bla
